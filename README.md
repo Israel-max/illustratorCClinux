@@ -46,7 +46,7 @@ the installer scripts use a virtual drive of wine and makes a new `winprefix` fo
 
 first of all, you need to clone the repository with this command:
 ```bash
-git clone https://github.com/Gictorbit/illustratorCClinux.git
+git clone https://github.com/Israel-max/illustratorCClinux.git
 cd illustratorCClinux
 chmod +x setup.sh
 ./setup.sh
